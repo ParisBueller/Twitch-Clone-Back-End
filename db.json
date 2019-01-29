@@ -11,12 +11,6 @@
       "id": 2
     },
     {
-      "title": "I created this stream",
-      "description": "This change was made by a PATCH request",
-      "userId": "101689878072421087504",
-      "id": 3
-    },
-    {
       "title": "Me Streaming Component Reuse!",
       "description": "This stream is about refactoring!",
       "id": 4
